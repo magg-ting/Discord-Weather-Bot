@@ -11,13 +11,13 @@ import requests
 import json
 
 # discord bot token
-TOKEN = "MTEzNzAxOTUwNzczNTU0Nzk2NQ.GSEpLo.p7myY30_t9eeB7mgZ9UcA5wHplCNRRc1zzRthI"
+TOKEN = "ENTER_YOUR_TOKEN"
 
 # discord server name
-server = "COMP1112"
+server = "ENTER_YOUR_SERVER_NAME"
 
 # weather API key
-API_KEY = "c7e8bd0c2fce4a30bd7134520230408"
+API_KEY = "ENTER_YOUR_API_KEY"
 
 # specify the necessary intents
 intents = discord.Intents.default()
