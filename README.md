@@ -5,6 +5,11 @@ This program will run a bot on Discord server for users to enquire about the cur
 
 The weather info is extracted using Weather API (__https://www.weatherapi.com/__).
 
+<div align="center">
+  <img src="Screenshot.png" alt="Sample Output" width="600" />  
+</div>
+
+
 ## Installation
 Install python 3.  
 Create an account on Weather API (__https://www.weatherapi.com/__).  
